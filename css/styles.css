@@ -5,6 +5,10 @@ body {
   background: #e5e5e5;
 }
 
+.main-font-color {
+  color: #212121;
+}
+
 .project-blue {
   color: #2196f3;
 }
